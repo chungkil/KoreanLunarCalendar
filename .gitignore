@@ -9,3 +9,4 @@ bin/
 # Package Files #
 *.jar
 hs_err_pid*
+contents.xcworkspacedata
